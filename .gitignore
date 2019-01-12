@@ -1,4 +1,8 @@
 RNN_tweet/t_retweet.csv
 RNN_tweet/t_tweet_data.csv
+RNN_tweet/.ipynb_checkpoints/
 .ipynb_checkpoints/
 RNN/.ipynb_checkpoints/
+DNN/.ipynb_checkpoints/
+logs/
+.DS_Store
