@@ -1,2 +1,4 @@
 RNN_tweet/t_retweet.csv
 RNN_tweet/t_tweet_data.csv
+.ipynb_checkpoints/
+RNN/.ipynb_checkpoints/
