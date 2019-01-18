@@ -1,9 +1,7 @@
-RNN_tweet/Datas
-RNN_tweet/Figs
-RNN_tweet/models
-RNN_tweet/.ipynb_checkpoints/
 .ipynb_checkpoints/
 RNN/.ipynb_checkpoints/
 DNN/.ipynb_checkpoints/
+NNW/.ipynb_checkpoints/
+DNN/mldata/
 logs/
 .DS_Store
