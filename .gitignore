@@ -1,7 +1,8 @@
-.ipynb_checkpoints/
+/.ipynb_checkpoints
 RNN/.ipynb_checkpoints/
 DNN/.ipynb_checkpoints/
 NNW/.ipynb_checkpoints/
 DNN/mldata/
 logs/
-.DS_Store
+/.DS_Store
+/TensorFlow_train/
